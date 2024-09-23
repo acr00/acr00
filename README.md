@@ -1,11 +1,19 @@
 ## Hi there 👋
 
+- Actualmente estoy estudiando dos cursos dirigidos a la progamación , uno acerca de Back-End y otro en el lenguaje y plataformas de Velneo 👨‍💻
+- Me gustan los proyectos relacionados con el Machine Learning y la ciberseguridad 🤖
+- HTML5, CSS , JAVA , SQL , VELNEO
+- (aprendiendo actualmente: JavaScript , Python )
+
+  Otras redes y formas de contacto:
+  Linkedin: https://www.linkedin.com/in/adrian-cai%C3%B1as-rodriguez-86524431b/
+
 <!--
 **acr00/acr00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
