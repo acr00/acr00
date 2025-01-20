@@ -5,6 +5,10 @@ Entusiasmado por la cultura "tech" y los videojuegos, comencé mis andaduras por
   Otras redes y formas de contacto:
   Linkedin: https://www.linkedin.com/in/adrian-cai%C3%B1as-rodriguez-86524431b/
 
+#ENG
+
+Excited by "tech" culture and video games, I began my journey down the path of programming in 2017, by investigating how I could include my own mods in the well-known game "Minecraft". After a slip during the pandemic that prevented me from finishing the Higher Degree, I finished the Professional Certificate aimed at Backend, and later, this past 2024, I simultaneously completed 2 intensive programming courses where my application development skills were put to the test, the first of them with the creators of the "Velneo" platform, a fullstack application that allows you to easily create databases, interfaces and applications from the same program. The second course was taught by Factoria F5, an organization where I took an intensive course especially aimed at Back-end with Java and Springboot. I have more than 1000 hours using Java in different scenarios, from the creation of the most basic programs to the recreation of "legacycode" of programs with connections to databases (Relational and non-relational).
+
 ### Tools y Lenguajes utilizados 👨‍💻
 
 <img align="left" alt="Java" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
